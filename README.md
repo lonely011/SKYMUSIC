@@ -1,4 +1,4 @@
-<h1> RaiChu Music </h1>
+<h1> SKY MUSIC BOT </h1>
 
 telegram bot project for streaming video on telegram video chat, powered by [tgcalls](https://github.com/MarshalX/tgcalls) and [pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -64,8 +64,8 @@ The easiest way to host this bot
 - sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
-- git clone https://github.com/AMANTYA1/RaiChuMusic  #Clone your repo.
-- cd RaiChu-MusicV2
+- git clone https://github.com/lonely011/SKYMUSIC  #Clone your repo.
+- cd SKYMUSIC
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
 - sudo python3 main.py
