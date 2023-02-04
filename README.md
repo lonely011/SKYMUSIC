@@ -2,7 +2,7 @@
 
 telegram bot project for streaming video on telegram video chat, powered by [tgcalls](https://github.com/MarshalX/tgcalls) and [pyrogram](https://github.com/pyrogram/pyrogram)
 
-<p align="center"><a href="https://t.me/tentangsayaa01"><img src="https://telegra.ph/file/29b1910781fb0d6a4869f.jpg" width="300"></a></p>  
+<p align="center"><a href="https://t.me/tentangsayaa01"><img src="https://telegra.ph/file/ca3c6ae2ae17b04cbba43.jpg" width="300"></a></p>  
 </p>
 
 
