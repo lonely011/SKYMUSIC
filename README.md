@@ -10,7 +10,7 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 ## Find me here : [sky](https://t.me/ohhyessbabyy)
 
 🏷️ --**Setting Up**-- :
-- 1.) first, add @JenniFer_x_RoBot to your group.
+- 1.) first, add @SkyXrobotbot to your group.
 - 2.) then promote me as admin and give all permissions except anonymous admin.
 - 3.) add @sky to your group.
 - 4.) turn on the voice chat first before start to play song.
