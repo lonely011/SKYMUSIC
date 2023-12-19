@@ -1,7 +1,7 @@
 tgcrypto
 asyncio
 ffmpeg-python
-py-tgcalls==0.8.6
+py-tgcalls==0.9.6
 pyrogram==1.4.16
 youtube-search-python==1.4.9
 yt_dlp
@@ -15,7 +15,7 @@ telethon
 aiohttp
 aiogram<3.0
 requests
-pillow
+pillow==9.5.0
 heroku3
 motor
 psutil
