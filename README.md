@@ -7,7 +7,7 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 
 
 
-## Find me here : [sky](https://t.me/ohhyessbabyy)
+## Find me here : [X](https://t.me/everytimee01)
 
 🏷️ --**Setting Up**-- :
 - 1.) first, add @SkyXrobotbot to your group.
@@ -19,15 +19,15 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 
 ## 🛠 Available Commands:
 
-🏷️ --**Common Commands**-- :
+--**Common Commands**-- :
 
-COMMAND | FUNCTION 👻
+COMMAND | FUNCTION 
 :--- | :---
 `/start` | start bot
 `/help`| get help
 `/video` [name] | download the video
 
-🏷️ --**Admin Only Commands**-- :
+--**Admin Only Commands**-- :
 
 COMMAND | FUNCTION
 :--- | :---
@@ -38,7 +38,7 @@ COMMAND | FUNCTION
 `/end`| end stream and left vc
 `/skip`| to skip a current song
 
-## 🍁 Get STRING_SESSION from below:
+## Get STRING_SESSION from below:
 
 Get pyrogram `SESSION` from here:
 
